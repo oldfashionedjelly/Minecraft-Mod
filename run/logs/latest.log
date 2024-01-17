@@ -1,0 +1,1958 @@
+[19:06:14] [main/INFO]: Setting user: Player167
+[19:06:17] [main/WARN]: Skipping bad option: lastServer:
+[19:06:17] [main/INFO]: LWJGL Version: 2.9.2
+[19:06:19] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Elements of Minecraft
+[19:06:20] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:06:21] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[19:06:21] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:06:21] [Thread-4/INFO]: OpenAL initialized.
+[19:06:21] [Sound Library Loader/INFO]: Sound engine started
+[19:06:23] [main/INFO]: Created: 512x512 textures-atlas
+[19:06:24] [main/WARN]: Skipping bad option: lastServer:
+[19:06:25] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:06:29] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[19:06:29] [Server thread/INFO]: Generating keypair
+[19:06:30] [Server thread/INFO]: Loaded 488 advancements
+[19:06:30] [Server thread/INFO]: Preparing start region for level 0
+[19:06:31] [Server thread/INFO]: Preparing spawn area: 45%
+[19:06:32] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:06:33] [Server thread/INFO]: Player167[local:E:cf12cb54] logged in with entity id 198 at (-157.78358650005512, 102.0, 278.7894141111695)
+[19:06:33] [Server thread/INFO]: Player167 joined the game
+[19:06:34] [Server thread/INFO]: Saving and pausing game...
+[19:06:34] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:06:34] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:06:34] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:06:34] [main/INFO]: Loaded 17 advancements
+[19:06:36] [Server thread/INFO]: Saving and pausing game...
+[19:06:36] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:06:36] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:06:36] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:07:31] [Server thread/INFO]: Saving and pausing game...
+[19:07:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:07:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:07:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:10:07] [Server thread/INFO]: Saving and pausing game...
+[19:10:07] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:10:07] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:10:07] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:11:26] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[19:11:32] [main/INFO]: [CHAT] --- Showing help page 1 of 8 (/help <page>) ---
+[19:11:32] [main/INFO]: [CHAT] /advancement <grant|revoke|test> <player>
+[19:11:32] [main/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[19:11:32] [main/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[19:11:32] [main/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:11:32] [main/INFO]: [CHAT] /debug <start|stop>
+[19:11:32] [main/INFO]: [CHAT] /defaultgamemode <mode>
+[19:11:32] [main/INFO]: [CHAT] /difficulty <new difficulty>
+[19:11:32] [main/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:11:38] [main/INFO]: [CHAT] Usage: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:12:15] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:15] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:16] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:16] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:25] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:25] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:26] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:26] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:27] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:27] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:27] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:27] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:28] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:28] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:28] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:28] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:29] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:29] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:29] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:29] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:29] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:29] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:30] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:30] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:30] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:30] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:31] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:31] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:31] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:31] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:31] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:31] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:32] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:32] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:32] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:32] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:33] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:33] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:33] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:33] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:33] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:33] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:34] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:34] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:34] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:34] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:35] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:35] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:35] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:35] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:35] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:35] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:36] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:36] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:36] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:36] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:44] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:44] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:44] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:44] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:44] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:12:44] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:12:57] [Server thread/INFO]: Saving and pausing game...
+[19:12:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:12:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:12:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:13:00] [Server thread/INFO]: Saving and pausing game...
+[19:13:00] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:13:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:13:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:13:15] [main/INFO]: [CHAT] Command set: gamemode 1 @p
+[19:13:41] [Server thread/INFO]: [Player167: Set own game mode to Adventure Mode]
+[19:13:41] [main/INFO]: [CHAT] Your game mode has been updated to Adventure Mode
+[19:13:49] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:13:49] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:14:00] [Server thread/INFO]: [Player167: Set own game mode to Spectator Mode]
+[19:14:00] [main/INFO]: [CHAT] Your game mode has been updated to Spectator Mode
+[19:14:18] [Server thread/INFO]: [Player167: Set own game mode to Survival Mode]
+[19:14:18] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[19:14:22] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:14:22] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:15:28] [Server thread/INFO]: Saving and pausing game...
+[19:15:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:15:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:15:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:15:32] [Server thread/INFO]: Saving and pausing game...
+[19:15:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:15:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:15:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:15:34] [main/INFO]: [CHAT] Command set: testfor @p[m=1]
+[19:15:39] [Server thread/INFO]: Saving and pausing game...
+[19:15:39] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:15:39] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:15:39] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:15:42] [main/INFO]: [CHAT] Command set: gamemode 0 @p
+[19:15:51] [Server thread/INFO]: [@: Found Player167]
+[19:15:51] [Server thread/INFO]: [@: Set Player167's game mode to Survival Mode]
+[19:15:51] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[19:16:59] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:16:59] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:17:06] [Server thread/INFO]: Saving and pausing game...
+[19:17:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:17:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:17:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:17:08] [Server thread/INFO]: Saving and pausing game...
+[19:17:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:17:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:17:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:17:11] [main/INFO]: [CHAT] Command set: testfor @p[m=1]
+[19:17:15] [Server thread/INFO]: Saving and pausing game...
+[19:17:15] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:17:15] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:17:15] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:17:17] [main/INFO]: [CHAT] Command set: gamemode 0 @p
+[19:17:58] [Server thread/INFO]: Saving and pausing game...
+[19:17:58] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:17:58] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:17:58] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:18:17] [main/INFO]: [CHAT] There is no such item with name minecraft:command_block_repeat
+[19:18:23] [Server thread/INFO]: Saving and pausing game...
+[19:18:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:18:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:18:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:19:56] [main/INFO]: [CHAT] There is no such item with name minecraft:repeat_command_block
+[19:20:01] [Server thread/INFO]: Saving and pausing game...
+[19:20:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:20:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:20:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:20:19] [Server thread/INFO]: Saving and pausing game...
+[19:20:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:20:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:20:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:21:09] [Server thread/INFO]: Saving and pausing game...
+[19:21:09] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:21:09] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:21:09] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:22:42] [Server thread/INFO]: [@: Teleported Player167 to -104.5, 82.0, 315.5]
+[19:22:42] [Server thread/INFO]: [@: Set the time to 13000]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Object successfully summoned]
+[19:23:31] [Server thread/INFO]: [@: Set the time to 13000]
+[19:23:31] [Server thread/INFO]: [@: Set Player167's game mode to Survival Mode]
+[19:23:31] [Server thread/INFO]: [@: Changing to rainy weather]
+[19:23:31] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[19:24:02] [Server thread/INFO]: Player167 was slain by Zombie
+[19:24:02] [main/INFO]: [CHAT] Player167 was slain by Zombie
+[19:24:02] [main/INFO]: Loaded 26 advancements
+[19:24:08] [Server thread/INFO]: Saving and pausing game...
+[19:24:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:24:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:24:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:24:42] [Server thread/INFO]: [Player167: Set own game mode to Creative Mode]
+[19:24:42] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:24:58] [Server thread/INFO]: [@: Teleported Player167 to -104.5, 82.0, 315.5]
+[19:24:58] [Server thread/INFO]: [@: Set the time to 13000]
+[19:25:03] [Server thread/INFO]: Saving and pausing game...
+[19:25:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:25:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:25:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:25:16] [main/INFO]: Loaded 32 advancements
+[19:26:16] [Server thread/INFO]: Saving and pausing game...
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:26:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:26:17] [main/INFO]: [CHAT] Command set: give @p minecraft:command_block
+[19:26:22] [Server thread/INFO]: Saving and pausing game...
+[19:26:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:26:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:26:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:26:38] [Server thread/INFO]: [@: Object successfully summoned]
+[19:26:38] [Server thread/INFO]: [@: Set Player167's game mode to Survival Mode]
+[19:26:38] [main/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[19:26:51] [Server thread/INFO]: [@: Set Player167's game mode to Creative Mode]
+[19:26:51] [main/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:27:08] [Server thread/INFO]: Saving and pausing game...
+[19:27:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:27:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:27:08] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:27:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:22] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:27:28] [Server thread/INFO]: Saving and pausing game...
+[19:27:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:27:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:27:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:27:46] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[19:27:50] [main/INFO]: [CHAT] --- Showing help page 1 of 8 (/help <page>) ---
+[19:27:50] [main/INFO]: [CHAT] /advancement <grant|revoke|test> <player>
+[19:27:50] [main/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[19:27:50] [main/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[19:27:50] [main/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:27:50] [main/INFO]: [CHAT] /debug <start|stop>
+[19:27:50] [main/INFO]: [CHAT] /defaultgamemode <mode>
+[19:27:50] [main/INFO]: [CHAT] /difficulty <new difficulty>
+[19:27:50] [main/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:28:48] [Server thread/INFO]: [Player167: Given [Command Block] * 1 to Player167]
+[19:28:48] [main/INFO]: [CHAT] Given [Command Block] * 1 to Player167
+[19:29:57] [Server thread/INFO]: Saving and pausing game...
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:29:57] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Elder Guardian]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Pig]
+[19:30:44] [Server thread/INFO]: [@: Killed Pig]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.egg]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Pig]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Pig]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:30:44] [Server thread/INFO]: [@: Killed Squid]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Enderman]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.egg]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.egg]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Cow]
+[19:30:44] [Server thread/INFO]: [@: Killed Spider]
+[19:30:44] [Server thread/INFO]: [@: Killed Bat]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.egg]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed Horse]
+[19:30:44] [Server thread/INFO]: [@: Killed Pig]
+[19:30:44] [Server thread/INFO]: [@: Killed Chicken]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.prismarineCrystals]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.porkchopRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.porkchopRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.porkchopRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.porkchopRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.enderPearl]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.leather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.leather]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.porkchopRaw]
+[19:30:44] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed Bat]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed Spider]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:45] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:45] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:45] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:45] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:45] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:45] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:45] [Server thread/INFO]: [@: Killed Squid]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Spider]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed Enderman]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Spider]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Bat]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Spider]
+[19:30:46] [Server thread/INFO]: [@: Killed Spider]
+[19:30:46] [Server thread/INFO]: [@: Killed Spider]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:46] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:46] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Squid]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Spider]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed Bat]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:47] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed Squid]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed Witch]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.yellowDust]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.stick]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.glassBottle]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed Creeper]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed Spider]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.string]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Bat]
+[19:30:48] [Server thread/INFO]: [@: Killed Skeleton]
+[19:30:48] [Server thread/INFO]: [@: Killed Zombie]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:30:48] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:30:48] [Server thread/INFO]: Saving and pausing game...
+[19:30:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:30:49] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:30:49] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:30:54] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:32:01] [Server thread/INFO]: Saving and pausing game...
+[19:32:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:32:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:32:01] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:32:20] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Witch]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Sheep]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Bat]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Zombie]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Creeper]
+[19:32:20] [Server thread/INFO]: [@: Killed Squid]
+[19:32:20] [Server thread/INFO]: [@: Killed Skeleton]
+[19:32:20] [Server thread/INFO]: [@: Killed Spider]
+[19:32:20] [Server thread/INFO]: [@: Killed Sheep]
+[19:32:20] [Server thread/INFO]: [@: Killed entity.WitherSkull.name]
+[19:32:20] [Server thread/INFO]: [@: Killed Sheep]
+[19:32:20] [Server thread/INFO]: [@: Killed Sheep]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed entity.WitherSkull.name]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed Sheep]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed Cow]
+[19:32:20] [Server thread/INFO]: [@: Killed entity.WitherSkull.name]
+[19:32:20] [Server thread/INFO]: [@: Killed Fireball]
+[19:32:53] [main/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[19:33:14] [Server thread/INFO]: [Player167: Object successfully summoned]
+[19:33:14] [main/INFO]: [CHAT] Object successfully summoned
+[19:33:47] [Server thread/INFO]: Saving and pausing game...
+[19:33:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:33:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:33:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:34:29] [Server thread/INFO]: Saving and pausing game...
+[19:34:29] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:34:29] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:34:29] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.button]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.redstone]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Chicken]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.cloth.white]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.muttonRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed Bat]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:34:49] [Server thread/INFO]: [@: Killed Zombie]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed Skeleton]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed Spider]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.string]
+[19:34:49] [Server thread/INFO]: [@: Killed Squid]
+[19:34:49] [Server thread/INFO]: [@: Killed Creeper]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.cloth.white]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.muttonRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.cloth.white]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.muttonRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.cloth.white]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.muttonRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.leather]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.leather]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.tile.cloth.white]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.muttonRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.leather]
+[19:34:49] [Server thread/INFO]: [@: Killed item.item.beefRaw]
+[19:34:51] [Server thread/INFO]: Saving and pausing game...
+[19:34:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:34:52] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:34:52] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:35:28] [Server thread/INFO]: Saving and pausing game...
+[19:35:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:35:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:35:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:35:30] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:35:40] [Server thread/INFO]: Saving and pausing game...
+[19:35:40] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:35:40] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:35:40] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:36:00] [Server thread/INFO]: [Player167: Object successfully summoned]
+[19:36:00] [main/INFO]: [CHAT] Object successfully summoned
+[19:36:19] [Server thread/INFO]: Saving and pausing game...
+[19:36:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:36:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:36:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:36:30] [main/INFO]: [CHAT] Command set: kill @e [type=!Player]
+[19:36:32] [Server thread/INFO]: Player167 fell out of the world
+[19:36:32] [Server thread/INFO]: [@: Killed Player167]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.feather]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.chickenRaw]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Witch]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Spider]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.string]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.string]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Bat]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed Enderman]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.string]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.string]
+[19:36:32] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:32] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Squid]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:32] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.string]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:36:33] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:33] [Server thread/INFO]: [@: Killed Spider]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:33] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed Bat]
+[19:36:33] [Server thread/INFO]: [@: Killed Spider]
+[19:36:33] [Server thread/INFO]: [@: Killed Bat]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:33] [Server thread/INFO]: [@: Killed Zombie]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed Skeleton]
+[19:36:33] [Server thread/INFO]: [@: Killed Creeper]
+[19:36:33] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:36:33] [Server thread/INFO]: [@: Killed Enderman]
+[19:36:33] [main/INFO]: [CHAT] Player167 fell out of the world
+[19:37:02] [Server thread/INFO]: [@: Teleported Player167 to -104.5, 82.0, 315.5]
+[19:37:02] [Server thread/INFO]: [@: Set the time to 13000]
+[19:37:05] [Server thread/INFO]: Saving and pausing game...
+[19:37:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:37:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:37:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:37:13] [main/INFO]: [CHAT] Command set: /kill @e[type=!Player]
+[19:37:26] [Server thread/INFO]: [Player167: Object successfully summoned]
+[19:37:26] [main/INFO]: [CHAT] Object successfully summoned
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.string]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.button]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.lever]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.log.oak]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.wood.oak]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.stone.stone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.tile.commandBlock]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.spiderEye]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sugar]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed Enderman]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:37:30] [Server thread/INFO]: [@: Killed Chicken]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.dyePowder.black]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Squid]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Pig]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Pig]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Creeper]
+[19:37:30] [Server thread/INFO]: [@: Killed Cow]
+[19:37:30] [Server thread/INFO]: [@: Killed Chicken]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.string]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.string]
+[19:37:30] [Server thread/INFO]: [@: Killed Cow]
+[19:37:30] [Server thread/INFO]: [@: Killed Cow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed Spider]
+[19:37:30] [Server thread/INFO]: [@: Killed Skeleton]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed Bat]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie Villager]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed Zombie]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.string]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.bone]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.enderPearl]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.rottenFlesh]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.string]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.arrow]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed item.item.sulphur]
+[19:37:30] [Server thread/INFO]: [@: Killed Chicken]
+[19:37:30] [Server thread/INFO]: [@: Killed Chicken]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:30] [Server thread/INFO]: [@: Killed Sheep]
+[19:37:56] [Server thread/INFO]: Saving and pausing game...
+[19:37:56] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:37:56] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:37:56] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:38:04] [main/INFO]: [CHAT] Command set: /kill @e [type=!Player]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:18] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:19] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:20] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:21] [Server thread/INFO]: [@: Given [Command Block] * 1 to Player167]
+[19:38:25] [Server thread/INFO]: Saving and pausing game...
+[19:38:25] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:38:25] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:38:25] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:38:44] [main/INFO]: [CHAT] Command set: /setspawnpoint
+[19:39:06] [Server thread/INFO]: Saving and pausing game...
+[19:39:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:39:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:39:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:39:07] [main/INFO]: [CHAT] Command set: /setspawnpoint
+[19:39:17] [Server thread/INFO]: Saving and pausing game...
+[19:39:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:39:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:39:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:39:30] [main/INFO]: [CHAT] Command set: /help
+[19:39:40] [main/INFO]: [CHAT] --- Showing help page 1 of 8 (/help <page>) ---
+[19:39:40] [main/INFO]: [CHAT] /advancement <grant|revoke|test> <player>
+[19:39:40] [main/INFO]: [CHAT] /blockdata <x> <y> <z> <dataTag>
+[19:39:40] [main/INFO]: [CHAT] /clear [player] [item] [data] [maxCount] [dataTag]
+[19:39:40] [main/INFO]: [CHAT] /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
+[19:39:40] [main/INFO]: [CHAT] /debug <start|stop>
+[19:39:40] [main/INFO]: [CHAT] /defaultgamemode <mode>
+[19:39:40] [main/INFO]: [CHAT] /difficulty <new difficulty>
+[19:39:40] [main/INFO]: [CHAT] Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[19:40:03] [Server thread/INFO]: Saving and pausing game...
+[19:40:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:40:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:40:03] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:40:55] [Server thread/INFO]: Saving and pausing game...
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:40:55] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:41:31] [Server thread/INFO]: Saving and pausing game...
+[19:41:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:41:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:41:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:41:48] [Server thread/INFO]: Saving and pausing game...
+[19:41:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:41:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:41:48] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:41:53] [Server thread/INFO]: Saving and pausing game...
+[19:41:53] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:41:53] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:41:53] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:41:56] [main/INFO]: [CHAT] Command set: /kill @e [type=!Player]
+[19:42:26] [Server thread/INFO]: Saving and pausing game...
+[19:42:27] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:42:27] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:42:27] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:42:45] [Server thread/INFO]: Saving and pausing game...
+[19:42:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:42:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:42:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:43:23] [Server thread/INFO]: Saving and pausing game...
+[19:43:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:43:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:43:23] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:43:38] [Server thread/INFO]: Saving and pausing game...
+[19:43:38] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:43:38] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:43:38] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:43:45] [Server thread/INFO]: Saving and pausing game...
+[19:43:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:43:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:43:45] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:44:27] [main/INFO]: [CHAT] Command set: /give @s minecraft:diamond_sword
+[19:44:54] [Server thread/INFO]: Saving and pausing game...
+[19:44:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:44:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:44:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:45:00] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_sword
+[19:45:06] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:45:07] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:46:31] [Server thread/INFO]: Saving and pausing game...
+[19:46:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:46:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:46:31] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:47:00] [Server thread/INFO]: Saving and pausing game...
+[19:47:00] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:47:00] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:47:00] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:47:26] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_helmet
+[19:47:28] [Server thread/INFO]: Saving and pausing game...
+[19:47:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:47:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:47:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:47:47] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_chestplate
+[19:47:51] [Server thread/INFO]: Saving and pausing game...
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:47:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:48:11] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_leggings
+[19:48:16] [Server thread/INFO]: Saving and pausing game...
+[19:48:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:48:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:48:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:48:30] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_boots
+[19:48:33] [Server thread/INFO]: Saving and pausing game...
+[19:48:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:48:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:48:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:48:48] [main/INFO]: [CHAT] Command set: /give @s minecraft:bow
+[19:48:51] [Server thread/INFO]: Saving and pausing game...
+[19:48:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:48:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:48:51] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:48:53] [main/INFO]: [CHAT] Command set: /give @s minecraft:bow
+[19:48:54] [Server thread/INFO]: Saving and pausing game...
+[19:48:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:48:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:48:54] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:49:19] [main/INFO]: [CHAT] Command set: /give @p minecraft:arrow 128
+[19:49:28] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:49:30] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:49:31] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:49:37] [Server thread/INFO]: Saving and pausing game...
+[19:49:37] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:49:37] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:49:37] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:49:42] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_sword
+[19:49:44] [Server thread/INFO]: Saving and pausing game...
+[19:49:44] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:49:44] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:49:44] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:49:52] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_helmet
+[19:50:17] [Server thread/INFO]: Saving and pausing game...
+[19:50:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:50:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:50:17] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:51:33] [Server thread/INFO]: Saving and pausing game...
+[19:51:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:51:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:51:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:51:55] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:51:55] [Server thread/INFO]: Player167 has made the advancement [Cover Me With Diamonds]
+[19:51:55] [Server thread/INFO]: [@: Given [Diamond Helmet] * 1 to Player167]
+[19:51:55] [main/INFO]: [CHAT] Player167 has made the advancement [Cover Me With Diamonds]
+[19:51:55] [main/INFO]: Loaded 39 advancements
+[19:52:05] [Server thread/INFO]: Saving and pausing game...
+[19:52:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:52:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:52:05] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:52:07] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_chestplate
+[19:52:13] [Server thread/INFO]: Saving and pausing game...
+[19:52:13] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:52:13] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:52:13] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:52:15] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_leggings
+[19:52:16] [Server thread/INFO]: Saving and pausing game...
+[19:52:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:52:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:52:16] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:52:18] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_boots
+[19:52:19] [Server thread/INFO]: Saving and pausing game...
+[19:52:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:52:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:52:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:52:21] [main/INFO]: [CHAT] Command set: /give @s minecraft:bow
+[19:52:22] [Server thread/INFO]: Saving and pausing game...
+[19:52:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:52:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:52:22] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:52:24] [main/INFO]: [CHAT] Command set: /give @p minecraft:arrow 128
+[19:52:35] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:52:35] [Server thread/INFO]: [@: Given [Diamond Helmet] * 1 to Player167]
+[19:52:35] [Server thread/INFO]: [@: Given [Diamond Chestplate] * 1 to Player167]
+[19:52:35] [Server thread/INFO]: [@: Given [Diamond Leggings] * 1 to Player167]
+[19:52:35] [Server thread/INFO]: [@: Given [Diamond Boots] * 1 to Player167]
+[19:52:35] [main/INFO]: Loaded 40 advancements
+[19:53:12] [Server thread/INFO]: Saving and pausing game...
+[19:53:12] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:53:12] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:53:12] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:53:14] [main/INFO]: [CHAT] Command set: /give @p minecraft:diamond_boots
+[19:53:28] [Server thread/INFO]: Saving and pausing game...
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:53:28] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:53:30] [main/INFO]: [CHAT] Command set: /give @p minecraft:arrow 128
+[19:53:32] [Server thread/INFO]: Saving and pausing game...
+[19:53:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:53:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:53:32] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:53:40] [main/INFO]: [CHAT] Command set: /give @p minecraft:arrow 64
+[19:53:42] [Server thread/INFO]: Saving and pausing game...
+[19:53:42] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:53:42] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:53:42] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:53:50] [main/INFO]: [CHAT] Command set: /give @p minecraft:bow
+[19:53:59] [Server thread/INFO]: [@: Given [Diamond Sword] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Diamond Helmet] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Diamond Chestplate] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Diamond Leggings] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Diamond Boots] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Bow] * 1 to Player167]
+[19:53:59] [Server thread/INFO]: [@: Given [Arrow] * 64 to Player167]
+[19:53:59] [main/INFO]: Loaded 41 advancements
+[19:54:21] [Server thread/INFO]: Saving and pausing game...
+[19:54:21] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:54:21] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:54:21] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:54:33] [Server thread/INFO]: Saving and pausing game...
+[19:54:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:54:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:54:33] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:55:06] [Server thread/INFO]: Saving and pausing game...
+[19:55:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:55:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:55:06] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:59:19] [main/INFO]: Stopping!
+[19:59:19] [Server thread/INFO]: Stopping server
+[19:59:19] [Server thread/INFO]: Saving players
+[19:59:19] [Server thread/INFO]: Saving worlds
+[19:59:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/overworld
+[19:59:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_nether
+[19:59:19] [Server thread/INFO]: Saving chunks for level 'Introduction to Minecraft'/the_end
+[19:59:19] [main/INFO]: SoundSystem shutting down...
+[19:59:20] [main/WARN]: Author: Paul Lamb, www.paulscode.com
